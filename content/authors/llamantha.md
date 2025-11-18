@@ -1,4 +1,5 @@
 ---
-name: Llamantha
-avatar: /uploads/authors/llamantha.webp
+name: Oday
+avatar: /uploads/authors/oday%20-PP2.jpg
 ---
+
